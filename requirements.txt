@@ -1,6 +1,5 @@
-pip install matplotlib
-pip install yfinance
-pip install numpy
-pip install scikit-learn
-pip install streamlit
-pip install tensorflow
+matplotlib
+yfinance
+scikit-learn
+streamlit
+tensorflow
